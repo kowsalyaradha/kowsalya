@@ -17,7 +17,7 @@ rem=on%10;
 ar+=pow(rem,n);
 on/=10;
 }
-if(on==ar)
+if(ar==on)
 {
 printf("yes");
 }
