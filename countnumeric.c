@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main();
+int main()
 {
 char str[20];
 int i,count=0;
