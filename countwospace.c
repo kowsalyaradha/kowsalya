@@ -14,3 +14,4 @@ count++;
 }
 ans=l-count;
 printf("\n%d",ans);
+}
